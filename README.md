@@ -79,7 +79,8 @@ Do NOT use the base conda environment for this course.
 Always activate msba265 before launching JupyterLab.
 
 
-MSBA 265 – JupyterLab Setup (macOS + Anaconda)
+
+# MSBA 265 – JupyterLab Setup (macOS + Anaconda)
 
 These steps are the same as Windows, but use Terminal instead of Anaconda Prompt.
 
@@ -87,14 +88,14 @@ These steps are the same as Windows, but use Terminal instead of Anaconda Prompt
 (base) username@MacBook ~ %
 ```
 
-1) Create a dedicated course environment
+## 1) Create a dedicated course environment
 
 In Terminal, run:
 ```bash
 conda create -n msba265 python=3.11 -y
 ```
 
-2) Activate the environment
+## 2) Activate the environment
 ```bash
 conda activate msba265
 ```
@@ -104,19 +105,19 @@ Your prompt should now look similar to:
 (msba265) username@MacBook ~ %
 ```
 
-3) Install course packages
+## 3) Install course packages
 ```bash
 conda install -c conda-forge numpy pandas jupyterlab -y
 ```
 
-4) Launch JupyterLab
+## 4) Launch JupyterLab
 ```bash
 jupyter lab
 ```
 
 A browser window should open automatically.
 
-5) Verify your setup
+## 5) Verify your setup
 
 Create a new notebook and run:
 ```python

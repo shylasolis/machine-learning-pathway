@@ -1,8 +1,7 @@
 # Project 1: Linear Regression
 
-Apply the foundations from
-[Module 2: Preprocessing, Models, and Diagnostics](../Module_02_Preprocessing_Models_Diagnostics/)
-to predicting insurance expenses.
+Use linear regression to predict insurance expenses and evaluate model
+performance.
 
 ## Materials
 
@@ -11,10 +10,7 @@ to predicting insurance expenses.
 - [Assignment instructions](assignment_instructions.md)
 - [Assignment rubric](assignment_rubric.md)
 
-The lab scripts, notebook, and dataset retain their relative layout, so student
-commands run from `linear-regression` as before.
-The combined Module 1/2 study guide and model-training handout now live in
-Module 2 rather than in this project folder.
-
-This directory replaces `Module_02_Linear_Regression`. Linear regression is
-Project 1, not the name of the entire second foundational module.
+The learning lab includes scripts and a notebook that fit and compare
+single-feature linear regression models using the Normal Equation and Gradient
+Descent. The assignment extends the activity to a two-feature model using BMI
+and age.

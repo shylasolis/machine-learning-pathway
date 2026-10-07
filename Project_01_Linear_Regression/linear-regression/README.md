@@ -1,6 +1,7 @@
 # Linear Regression Learning Lab
 
-A beginner-friendly project for learning linear regression from first principles using real insurance data.
+Use the included insurance data to learn linear regression, compare two
+training methods, and interpret model performance.
 
 Students will learn two ways to train the same type of model:
 - Normal Equation (analytical solution)
@@ -8,12 +9,12 @@ Students will learn two ways to train the same type of model:
 
 The project includes Python scripts and a Jupyter notebook so you can learn either in code-first or notebook-first style.
 
-## What You Are Downloading
+## Included Materials
 
-This repository contains:
+This folder contains:
 - Educational Python scripts that build from data exploration to model comparison
 - A Jupyter notebook version of the lesson with visual outputs and interpretations
-- A local copy of the insurance dataset used in all examples
+- The insurance dataset used in the examples
 - A saved model-comparison chart
 
 ## Learning Objectives
@@ -42,16 +43,22 @@ By the end of this lab, students should be able to:
 ## Prerequisites
 
 - Python 3.10 or newer recommended
-- Git
-- Internet access (only needed for initial clone and optional package installs)
+- Internet access to install packages if they are not already available
 
-## 1) Clone the Project
+## 1) Open the Project Folder
 
-Run in a terminal:
+From the repository root, open this folder in a terminal.
+
+### Windows (PowerShell)
+
+```powershell
+cd .\Project_01_Linear_Regression\linear-regression
+```
+
+### macOS (Terminal or zsh)
 
 ```bash
-git clone https://github.com/shylasolis/linear-regression-with-standardization.git
-cd linear-regression-with-standardization
+cd Project_01_Linear_Regression/linear-regression
 ```
 
 ## 2) Create and Activate a Virtual Environment

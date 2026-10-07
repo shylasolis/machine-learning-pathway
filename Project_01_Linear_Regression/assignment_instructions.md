@@ -1,6 +1,6 @@
 # Assignment: Two-Feature Linear Regression Extension
 
-**Based on:** `01_simple_linear.py` -> `04_compare_models_visual.py` (Module 2, `linear-regression/`)
+**Based on:** `01_simple_linear.py` -> `04_compare_models_visual.py` (Project 1, `linear-regression/`)
 **Format:** Take-home coding assignment
 **Estimated effort:** 2-3 hours
 
@@ -53,7 +53,7 @@ See `assignment_rubric.md` for the full point breakdown.
 
 ## Hints
 
-- Reuse the standardize/mse/r2/mae helpers pattern from the Module 2 scripts
+- Reuse the standardize/mse/r2/mae helpers pattern from the Project 1 scripts
   instead of re-deriving them from scratch.
 - The Normal Equation for multiple features needs a general linear solver
   (e.g., Gauss-Jordan elimination), not just the 2x2 formula from script 2.

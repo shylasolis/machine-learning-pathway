@@ -10,7 +10,7 @@ analysis, preprocessing, regression, and classification.
 | [Module 1: EDA](Module_01_EDA/) | [Workshop](Module_01_EDA/module-1-workshop.pdf), [assignment](Module_01_EDA/module-1-assignment.pdf), [transformation lesson](Module_01_EDA/when-to-apply-tranformation-lesson.pdf), and [high-cardinality features lesson](Module_01_EDA/handling-high-cardinality-features.pdf) |
 | [Module 2: Preprocessing, Models, and Diagnostics](Module_02_Preprocessing_Models_Diagnostics/) | [Study guide](Module_02_Preprocessing_Models_Diagnostics/Module_1_2_Study_Guide.docx) and [model-training handout](Module_02_Preprocessing_Models_Diagnostics/linear-rgression-models-handout.docx) |
 | [Project 1: Linear Regression](Project_01_Linear_Regression/) | Insurance-cost prediction lab, lecture, assignment instructions, and rubric |
-| [Project 2: Classification](Project_02_Classification/) | [Classification foundations lecture](Project_02_Classification/Classification_Foundations_Lecture.pptx) |
+| [Project 2: Classification](Project_02_Classification/) | [Classification foundations lecture](Project_02_Classification/Classification_Foundations_Lecture.pptx), interactive logistic regression lab, [assignment](Project_02_Classification/assignment_instructions.md), and [student rubric](Project_02_Classification/assignment_rubric.md) |
 
 The [course syllabus](syllabus.pdf) is also included.
 

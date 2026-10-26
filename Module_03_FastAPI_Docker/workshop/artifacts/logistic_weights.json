@@ -1,0 +1,17 @@
+{
+  "feature_order": [
+    "mean radius",
+    "mean texture"
+  ],
+  "coefficient_units": "standardized features",
+  "intercept": -0.6903927342316951,
+  "coefficients": [
+    3.2571335094384546,
+    0.867978854822868
+  ],
+  "classes": [
+    0,
+    1
+  ],
+  "threshold": 0.5
+}

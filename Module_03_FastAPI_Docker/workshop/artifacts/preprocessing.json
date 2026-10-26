@@ -1,0 +1,15 @@
+{
+  "feature_order": [
+    "mean radius",
+    "mean texture"
+  ],
+  "transformation": "(raw_value - training_mean) / training_scale",
+  "training_mean": [
+    14.166076923076936,
+    19.417692307692302
+  ],
+  "training_scale": [
+    3.5751458429661915,
+    4.285935362007163
+  ]
+}

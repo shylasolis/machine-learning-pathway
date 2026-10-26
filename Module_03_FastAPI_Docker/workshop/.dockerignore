@@ -1,0 +1,13 @@
+.venv
+__pycache__
+.pytest_cache
+*.py[cod]
+.git
+.DS_Store
+check_api.py
+prepare_model.py
+test_app.py
+requirements-dev.txt
+*.md
+*.pdf
+model_handoff.zip

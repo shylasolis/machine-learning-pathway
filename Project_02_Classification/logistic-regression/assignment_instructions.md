@@ -58,8 +58,8 @@ Use Python 3.10 or newer in the same environment you use to run your work.
 From the repository root in PowerShell:
 
 ```powershell
-cd .\Project_02_Classification
-python -m pip install -r assignment_requirements.txt
+cd .\Project_02_Classification\logistic-regression
+python -m pip install -r ..\assignment_requirements.txt
 ```
 
 NumPy is required for your own training implementation. You may use
@@ -68,7 +68,7 @@ and evaluation metrics. You may use Matplotlib for the loss plot.
 
 ## Part 1: Connect the equation to a prediction
 
-Use the [interactive explorer](logistic-regression/logistic_regression_interactive.py)
+Use the [interactive explorer](logistic_regression_interactive.py)
 to investigate the following four settings. Its one-feature examples are
 separate from the two-feature dataset you will train on.
 
@@ -317,7 +317,7 @@ instructor's local files.
 
 ## Independent peer validation
 
-Use the course's [Project Replication & Peer Verification Form](../assignment-validation.pdf).
+Use the course's [Project Replication & Peer Verification Form](../../assignment-validation.pdf).
 Before submission:
 
 1. Send a classmate the repository link and the branch/version to validate.

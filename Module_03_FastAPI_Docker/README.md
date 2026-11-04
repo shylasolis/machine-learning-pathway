@@ -80,7 +80,7 @@ For a print-friendly walkthrough, use the combined
 This is a **guided foundational workshop**, not a replacement for Project
 Assignment 2 and not a newly assigned graded project. Project deliverables and
 portfolio expectations remain in the
-[Classification assignment](../Project_02_Classification/assignment_instructions.md).
+[Logistic regression assignment](../Project_02_Classification/logistic-regression/assignment_instructions.md).
 
 ## Teaching boundaries
 

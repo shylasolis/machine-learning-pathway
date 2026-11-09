@@ -1,7 +1,7 @@
 # MSBA265: Special Analytics Topics
 
 This repository contains course materials and activities for exploratory data
-analysis, preprocessing, regression, and classification.
+analysis, preprocessing, regression, classification, and clustering.
 
 ## Materials
 
@@ -11,6 +11,7 @@ analysis, preprocessing, regression, and classification.
 | [Module 2: Preprocessing, Models, and Diagnostics](Module_02_Preprocessing_Models_Diagnostics/) | [Study guide](Module_02_Preprocessing_Models_Diagnostics/Module_1_2_Study_Guide.docx) and [model-training handout](Module_02_Preprocessing_Models_Diagnostics/linear-rgression-models-handout.docx) |
 | [Project 1: Linear Regression](Project_01_Linear_Regression/) | Insurance-cost prediction lab, lecture, assignment instructions, and rubric |
 | [Project 2: Classification](Project_02_Classification/) | [Classification foundations](Project_02_Classification/Classification_Foundations_Lecture.pptx), [logistic regression lessons and assignment](Project_02_Classification/logistic-regression/README.md), and [KNN guide, lab, and homework](Project_02_Classification/k-nearest-neighbors/README.md) |
+| [Project 3: Clustering](Project_03_Clustering/) | [K-means beginner guide, worked examples, guided lab, and homework](Project_03_Clustering/k-means/README.md) |
 | [Module 3: FastAPI & Docker Containerization](Module_03_FastAPI_Docker/) | [Printable beginner lab PDF](Module_03_FastAPI_Docker/workshop/Module_03_FastAPI_Docker_Lab_Guide.pdf), [Docker setup pre-lab](Module_03_FastAPI_Docker/workshop/docker_setup.md), [model handoff pack guide](Module_03_FastAPI_Docker/workshop/model_handoff.md), and [guided API/container workshop](Module_03_FastAPI_Docker/workshop/README.md) |
 
 The [course syllabus](syllabus.pdf) is also included.

@@ -1,0 +1,19 @@
+# LLM & NLP Learning Projects
+# Python: 3.11+ (PyTorch supports newer Python versions well)
+
+# Core ML/Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+scipy>=1.10.0
+
+# Deep Learning - PyTorch
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# NLP & Text Processing (Keras for tokenization)
+tensorflow-cpu>=2.13.0  # CPU version (lighter, works with Python 3.14)
+
+# Utilities
+joblib>=1.3.0

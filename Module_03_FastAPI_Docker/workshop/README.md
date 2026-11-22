@@ -91,16 +91,6 @@ Do not open the binary joblib file as text. Do not replace it with an artifact
 from an unfamiliar source: joblib/pickle can execute code during loading.
 The service does not accept uploaded model files.
 
-To print the supplied pipeline's steps, learned scaler values, model coefficients,
-and settings, run [inspect_pipeline.py](inspect_pipeline.py) from this folder:
-
-```powershell
-.\.venv\Scripts\python.exe .\inspect_pipeline.py
-```
-
-On macOS, use `./.venv/bin/python inspect_pipeline.py` instead.
-This only reads the supplied artifact; it does not retrain or overwrite it.
-
 The two features, in order, are `mean radius` and `mean texture` from
 scikit-learn's bundled Wisconsin Diagnostic Breast Cancer dataset. Radius is
 a cell-nucleus size measurement and texture describes grayscale variation;

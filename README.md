@@ -13,6 +13,7 @@ analysis, preprocessing, regression, classification, and clustering.
 | [Project 2: Classification](Project_02_Classification/) | [Classification foundations](Project_02_Classification/Classification_Foundations_Lecture.pptx), [logistic regression lessons and assignment](Project_02_Classification/logistic-regression/README.md), and [KNN guide, lab, and homework](Project_02_Classification/k-nearest-neighbors/README.md) |
 | [Project 3: Clustering](Project_03_Clustering/) | [K-means beginner guide, worked examples, guided lab, and homework](Project_03_Clustering/k-means/README.md) |
 | [Module 3: FastAPI & Docker Containerization](Module_03_FastAPI_Docker/) | [Printable beginner lab PDF](Module_03_FastAPI_Docker/workshop/Module_03_FastAPI_Docker_Lab_Guide.pdf), [Docker setup pre-lab](Module_03_FastAPI_Docker/workshop/docker_setup.md), [model handoff pack guide](Module_03_FastAPI_Docker/workshop/model_handoff.md), and [guided API/container workshop](Module_03_FastAPI_Docker/workshop/README.md) |
+| Final review | [Cumulative study guide](Final_Review/Final_Study_Guide.docx) |
 
 The [course syllabus](syllabus.pdf) is also included.
 

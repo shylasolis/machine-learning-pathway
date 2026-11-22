@@ -126,6 +126,7 @@ The PDF builder uses Matplotlib/Mathtext for readable superscripts, fractions,
 and square roots rather than inline programming notation or external LaTeX. To explicitly
 regenerate the notebook source, append `--notebook`; this replaces its saved
 execution outputs, so only do so when intentionally rebuilding the notebook.
+The student-facing builder does not regenerate the instructor guide.
 Keep instructor outputs local; the `*Instructor*` ignore rule excludes them.
 The optional private teaching/grading PDF is rebuilt only when its local
 instructor Markdown source is available; a student clone does not need it.
